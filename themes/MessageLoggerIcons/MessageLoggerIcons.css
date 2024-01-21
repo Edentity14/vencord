@@ -22,6 +22,7 @@
     content: "🗑️  ";
     display: inline-block;
     transform: scaleX(-1);
+}
 
 /**
  * @name BasicBackground
